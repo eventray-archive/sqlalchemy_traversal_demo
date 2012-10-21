@@ -13,5 +13,4 @@ This is a demo pyramid application that shows how to use sqlalchemy_traversal
 * Open your browser to http://0.0.0.0:6543/traverse/country/236
 * Open your browser to http://0.0.0.0:6543/traverse/country/236/subdivisions
 * Open your browser to http://0.0.0.0:6543/traverse/country/236/subdivisions/4615
-
-Open your browser to http://0.0.0.0:6543/traverse/subdivision/4615/country/subdivisions/4617
+* Open your browser to http://0.0.0.0:6543/traverse/subdivision/4615/country/subdivisions/4617
