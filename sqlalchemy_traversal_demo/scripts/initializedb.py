@@ -53,9 +53,6 @@ def main(argv=sys.argv):
             except KeyError:
                 pass
 
-            if country.alpha2 == 'US':
-                import pdb; pdb.set_trace()
-
             if subdivisions:
                 for subdivision in subdivisions:
                     new_sub = Subdivision(
